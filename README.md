@@ -36,6 +36,7 @@ This analysis applies clustering algorithms (K-Means and DBSCAN) to a cirrhosis 
 ### Prerequisites
 ```bash
 pip install -r requirements.txt
+```
 
 ###📊 Key Results
 ##K-Means Clustering
