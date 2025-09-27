@@ -36,3 +36,15 @@ This analysis applies clustering algorithms (K-Means and DBSCAN) to a cirrhosis 
 ### Prerequisites
 ```bash
 pip install -r requirements.txt
+
+###📊 Key Results
+##K-Means Clustering
+-Silhouette Score: 0.22 (moderate separation)
+-3 distinct clusters identified with varying clinical characteristics
+-Cluster 2 showed highest bilirubin levels and disease severity
+
+##DBSCAN Clustering
+-3 clusters identified with noise handling
+-Better outlier detection compared to K-Means
+-Smaller but more homogeneous clusters
+
