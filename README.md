@@ -43,6 +43,7 @@ pip install -r requirements.txt
 -Silhouette Score: 0.22 (moderate separation)
 -3 distinct clusters identified with varying clinical characteristics
 -Cluster 2 showed highest bilirubin levels and disease severity
+
 -<img width="339" height="363" alt="Screenshot 2025-10-04 at 3 59 43 PM" src="https://github.com/user-attachments/assets/90434b7e-0f4b-4288-b042-66611c196c64" />
 
 
