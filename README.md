@@ -47,7 +47,9 @@ pip install -r requirements.txt
 
 
 ## DBSCAN Clustering
--3 clusters identified with noise handling
--Better outlier detection compared to K-Means
--Smaller but more homogeneous clusters
+- 3 clusters identified with noise handling
+- Better outlier detection compared to K-Means
+- Smaller but more homogeneous clusters
+- <img width="352" height="363" alt="Screenshot 2025-10-04 at 4 02 50 PM" src="https://github.com/user-attachments/assets/0604bef1-94ea-4d09-884d-91b3f61e7bc2" />
+
 
